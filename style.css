@@ -1,0 +1,26 @@
+
+.block{
+    display: block;
+    margin: auto;
+   
+}
+
+
+
+body{
+    background-color: #EEE3CB;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+a{
+    font-size: 25px;
+}
+
+.content{
+    padding-top: 20px;
+}
